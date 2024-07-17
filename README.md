@@ -1,16 +1,16 @@
 # Graph-Neural-Networks
 La prédiction de liens en utilisant les réseaux de neurones en graphes ("Graph Neural Networks")
 
-Introduction
-Partie 1 : Concepts Fondamentaux des Graphes et de la Prédiction de Liens
-Partie 2 : Introduction aux Réseaux de Neurones sur Graphes (GNNs)
-Partie 3 : Techniques et Modèles pour la Prédiction de Liens avec GNNs
-Partie 4 : Applications et Cas d'Utilisation
-Partie 5 : Implémentation
+Introduction <br>
+Partie 1 : Concepts Fondamentaux des Graphes et de la Prédiction de Liens<br>
+Partie 2 : Introduction aux Réseaux de Neurones sur Graphes (GNNs)<br>
+Partie 3 : Techniques et Modèles pour la Prédiction de Liens avec GNNs<br>
+Partie 4 : Applications et Cas d'Utilisation<br>
+Partie 5 : Implémentation<br>
 
-Conclusion
-Références
-Annexe
+Conclusion<br>
+Références<br>
+Annexe<br>
 
 ![CoraBalloons](https://github.com/user-attachments/assets/776a7ed3-6b27-4f67-b6f8-57ff3732f120)
 
