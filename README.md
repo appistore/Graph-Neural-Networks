@@ -12,6 +12,9 @@ Conclusion<br>
 Références<br>
 Annexe<br>
 
+
+ Visualisation du graphe Cora utilisant une disposition dite "ballon"
+source : https://graphsandnetworks.com/the-cora-dataset/
 ![CoraBalloons](https://github.com/user-attachments/assets/776a7ed3-6b27-4f67-b6f8-57ff3732f120)
 
 
